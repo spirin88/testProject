@@ -1,0 +1,7 @@
+/* /// LAYOUT STYLES ///////////////////////////// */
+body {
+
+	background: $bgColor url($imgPath) 0px 0px no-repeat;
+	font: #{$baseFontSize}/#{$baseLineHeight} $baseFontFamily;
+	color: $primaryColor;
+}
